@@ -9,7 +9,7 @@ Adds data from TREB, Toronto Real Estate Board MLS listings.
 - Integrated with multiple themes.
 - Added GeoLocation and Map functionality.
 - Removed Shortcode.
-- Property Custom Post Type generator and lisitng view with search.
+- Property Custom Post Type generator and listing view with search.
 
 
 Contact me if you need help / info:
